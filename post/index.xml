@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 雷电交易系统</title>
+    <link>https://lighting-cloud.com/post/</link>
+    <description>Recent content in Posts on 雷电交易系统</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2020 17:59:55 +0800</lastBuildDate><atom:link href="https://lighting-cloud.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合约交易系统开发</title>
+      <link>https://lighting-cloud.com/post/swap/</link>
+      <pubDate>Wed, 18 Nov 2020 17:59:55 +0800</pubDate>
+      
+      <guid>https://lighting-cloud.com/post/swap/</guid>
+      <description>合约交易系统 合约交易系统类似于传统金融的期货交易，但有很多不同。</description>
+    </item>
+    
+    <item>
+      <title>数字货币交易所</title>
+      <link>https://lighting-cloud.com/post/exchange/</link>
+      <pubDate>Wed, 18 Nov 2020 09:56:33 +0800</pubDate>
+      
+      <guid>https://lighting-cloud.com/post/exchange/</guid>
+      <description>&lt;h1 id=&#34;什么是数字货币交易所&#34;&gt;什么是数字货币交易所&lt;/h1&gt;
+&lt;p&gt;自从bitcoin发布以来，人们对加密货币的兴趣与日俱增，终于成功的由一小群极客的玩物，逐渐成为炙手可热的投资品。&lt;/p&gt;
+&lt;h2 id=&#34;优势&#34;&gt;优势&lt;/h2&gt;
+&lt;p&gt;功能成熟、应用广泛的数字资产现货交易系统，强大的内存撮合引擎保证高并发量交易支持，包含完善的前后台系统，提供配套中心化钱包，系统安全稳定，可保障平台和用户双方的隐私安全、系统安全和资产安全。支持策略委托，支持国际化。
+专业交易
+提供自定义和第三方两种K线，技术分析和划线工具，支持策略委托，支持API下单&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

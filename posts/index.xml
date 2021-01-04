@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 雷电交易系统</title>
+    <link>https://lighting-cloud.com/posts/</link>
+    <description>Recent content in Posts on 雷电交易系统</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2020 09:56:33 +0800</lastBuildDate><atom:link href="https://lighting-cloud.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>交易所</title>
+      <link>https://lighting-cloud.com/posts/exchange/</link>
+      <pubDate>Wed, 18 Nov 2020 09:56:33 +0800</pubDate>
+      
+      <guid>https://lighting-cloud.com/posts/exchange/</guid>
+      <description>交易所 自从bitcoin发布以来，人们对加密货币的兴趣与日俱增，终于成功的由一小群极客的玩物，逐渐成为炙手可热的投资品。</description>
+    </item>
+    
+  </channel>
+</rss>
