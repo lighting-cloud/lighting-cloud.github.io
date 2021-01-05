@@ -1,70 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://lighting-cloud.com/categories/</loc>
-    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/post/</loc>
-    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/tags/</loc>
-    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/tags/%E4%BA%A4%E6%98%93%E6%89%80/</loc>
-    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/categories/%E4%BA%A4%E6%98%93%E6%89%80/</loc>
-    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/tags/%E4%BA%A4%E6%98%93%E6%89%80%E6%BA%90%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/tags/%E5%90%88%E7%BA%A6%E4%BA%A4%E6%98%93/</loc>
-    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/tags/%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93/</loc>
-    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/</loc>
-    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/post/lighting-cloud-intro/</loc>
-    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/post/swap/</loc>
-    <lastmod>2020-11-18T17:59:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/post/exchange/</loc>
-    <lastmod>2020-11-18T09:56:33+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lighting-cloud.com/about/</loc>
-    <lastmod>2020-11-17T17:18:18+08:00</lastmod>
-  </url>
-  
-</urlset>
+<search>
+    
+     <entry>
+        <title>雷电交易系统简介</title>
+        <url>https://lighting-cloud.com/post/lighting-cloud-intro/</url>
+        <categories>
+          <category>交易所</category>
+        </categories>
+        <tags>
+          <tag>交易所</tag><tag>币币交易</tag><tag>合约交易</tag><tag>交易所源代码</tag>
+        </tags>
+        <content type="html"> 雷电交易系统 雷电交易系统是我们的核心产品。
+雷电交易系统经过三年时间的迭代开发，几十家线上交易所的实战检验和优化，无论是在安全，性能，用户体验，功能完善度方面，都是业内领先的交易系统。
+雷电交易系统全部提供源代码, 全部模块私有化部署，让您的交易所尽在您的掌控之下。雷电交易系统主要支持/包含以下子系统、模块：
+现货交易、币币交易  高性能撮合引擎 内存撮合强大，每个交易对5万&#43;TPS 专业交易 提供自完善的技术分析和划线工具支持策略委托和API下单、Websocket下单 配套功能 配套财务系统、风控体系，支持所有主流币种及其代币，配套后台审核和运营CMS系统，快速稳定的系统部署和交付 多种交易模式 支持法币、币币交易等多种交易形式，支持法币直接购买，且无最小限制  合约交易 功能成熟，支持双向开仓和逐仓管理。有完备的风险防范制度，多种账号模型，最大限度保护用户的权益和资产安全。强大的内存撮合引擎保证高并发量交易，支持API下单、WS行情订阅。
+  多种账户体系 支持逐仓模式，支持全仓模式，支持全仓全账户模式。
+  USDT本位及币本位合约 支持USDT本位合约 支持币本位合约
+  金融期货交易 交易品种可自行设计，合约双向开仓，支持定期和永续两大类合约品种，支持逐仓和全仓模式
+  保证金制度 抵押保证金开仓，平台对每个品种设杠杆倍数上限，用户开仓时自定义倍数
+  强制平仓制度 实时计算风险率，强制平仓过高风险率的仓位；发生穿仓的待强平仓位亏损由风险准备金账户支出
+  强制减仓制度 当风险准备金无力承担强制平仓单穿仓亏损时，会从盈利率最高的用户仓位开始，依次强减，直至穿仓亏损全部消除
+  计划委托功能 设置触发及自动执行价格，免除您时刻盯盘的困扰️。同时具有止盈止损功能：下单时即可设置止盈止损，轻松锁定利润、减少亏损。
+  闪电开仓平仓
+  理想价位快速开仓、平仓，一键开仓，一键平仓，锁定利润，避免错过最佳买入卖出时间。
+合约代理商 代理商等级多层级，灵活设定返佣比例，可配置日结、周结、月结等结算方式，享有独立代理后台，轻松管理下级用户，活动帮扶，可帮助定制推广，可提供相关物料。
+做市系统、流动性提供商 钱包系统  冷热分离 行业内领先的分层确定性冷钱包体系，既保证了交易所的资产安全，也满足了日常运营的便利。 多签系统 多签系统保证了资产的安全，及时部分私钥由于不可抗力丢失，也能保障资产的安全。 稳定、零事故 自上线运行以来，管理总资产几百亿美元，未发生一起安全事故 事前风控，事中风控，事后风控 多种灵活可配置的风控体系，逐层把关的安全防控  OTC 系统 既可以对接第三方OTC系统，也内置了一套OTC系统。
+后台管理  用户管理 交易管理 资产管理 运营管理 钱包管理 统计 风控  Web前端、iOS、Android移动端  Web前端使用VUE 2.x开发； iOS使用Object-C开发 Android客户端使用JAVA开发  其他产品 公链开发  基于波卡的公链开发 EVM虚拟机开发 基于FIL的公链开发  联盟链开发 区块链浏览器开发  BTC浏览器 ETH浏览器 波卡浏览器 定制浏览器  去中心化钱包  BTC钱包/LTC钱包/BSV/BCH钱包 ETH钱包/BSC钱包/HECO钱包 TRX波场钱包 波卡钱包  DEFI 合约  类uniswap 类sushiswap 类Basis Cash算法稳定币 类Compound借贷系统  以上合约系统均支持ETH，BSC智能链，HECO生态链，OK链。
+关于我们 关于我们 我们是全球领先的区块链技术服务商，成立于2017年，目前已拥有数字资产交易系统、钱包、流动性、Broker等成熟的产品线。同时，ChainUP实行集团化和全球化运营战略，除总部新加坡外，在北京、东京、香港均设有办事处。截止目前，我们已为全球多家客户提供了区块链技术服务，覆盖亚洲、欧洲、美洲、大洋洲等地区多个国家和地区，累计触达500多万全球用户。
+我们的使命 我们致力于区块链领域的开发和服务，立志成为全球一流的区块链解决方案提供商。
+联系方式 Email: lighting.cloud@yandex.com
+</content>
+    </entry>
+    
+     <entry>
+        <title>合约交易系统开发</title>
+        <url>https://lighting-cloud.com/post/swap/</url>
+        <categories>
+          
+        </categories>
+        <tags>
+          
+        </tags>
+        <content type="html"> 合约交易系统 合约交易系统类似于传统金融的期货交易，但有很多不同。
+</content>
+    </entry>
+    
+     <entry>
+        <title>数字货币交易所</title>
+        <url>https://lighting-cloud.com/post/exchange/</url>
+        <categories>
+          <category>交易所</category>
+        </categories>
+        <tags>
+          <tag>交易所</tag>
+        </tags>
+        <content type="html"> 什么是数字货币交易所 自从bitcoin发布以来，人们对加密货币的兴趣与日俱增，终于成功的由一小群极客的玩物，逐渐成为炙手可热的投资品。
+优势 功能成熟、应用广泛的数字资产现货交易系统，强大的内存撮合引擎保证高并发量交易支持，包含完善的前后台系统，提供配套中心化钱包，系统安全稳定，可保障平台和用户双方的隐私安全、系统安全和资产安全。支持策略委托，支持国际化。 专业交易 提供自定义和第三方两种K线，技术分析和划线工具，支持策略委托，支持API下单
+配套功能 配套财务系统和风控体系，配套中心化钱包，支持所有主流数字资产，配套后台审核和运营CMS系统，国际化语言包，快速稳定的系统部署和交付 多端支持 支持PC端、手机端和APP，且均可通过Open API访问 安全验证 三重用户KYC认证，多种身份校验，机器防刷，权限隔离
+支付交易系统 数字资产和法定资产可以直接交易和支付的交易系统系统。提供包括专业K线、深度图、内存撮合系统、后台管理系统自动到账确认助手在内的整套交易系统，支持微信、支付宝和银行卡支付。仅为数字交易合法合规的国家和地区提供
+</content>
+    </entry>
+    
+</search>
