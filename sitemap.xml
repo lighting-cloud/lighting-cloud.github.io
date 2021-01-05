@@ -2,7 +2,7 @@
     
      <entry>
         <title>雷电交易系统简介</title>
-        <url>https://lighting-cloud.com/post/lighting-cloud-intro/</url>
+        <url>/post/lighting-cloud-intro/</url>
         <categories>
           <category>交易所</category>
         </categories>
@@ -33,7 +33,7 @@
     
      <entry>
         <title>合约交易系统开发</title>
-        <url>https://lighting-cloud.com/post/swap/</url>
+        <url>/post/swap/</url>
         <categories>
           
         </categories>
@@ -46,7 +46,7 @@
     
      <entry>
         <title>数字货币交易所</title>
-        <url>https://lighting-cloud.com/post/exchange/</url>
+        <url>/post/exchange/</url>
         <categories>
           <category>交易所</category>
         </categories>
