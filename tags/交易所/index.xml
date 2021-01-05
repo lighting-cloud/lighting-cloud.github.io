@@ -6,7 +6,30 @@
     <description>Recent content in 交易所 on 雷电交易系统</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2020 09:56:33 +0800</lastBuildDate><atom:link href="https://lighting-cloud.com/tags/%E4%BA%A4%E6%98%93%E6%89%80/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 19:57:18 +0800</lastBuildDate><atom:link href="https://lighting-cloud.com/tags/%E4%BA%A4%E6%98%93%E6%89%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雷电交易系统简介</title>
+      <link>https://lighting-cloud.com/post/lighting-cloud-intro/</link>
+      <pubDate>Tue, 05 Jan 2021 19:57:18 +0800</pubDate>
+      
+      <guid>https://lighting-cloud.com/post/lighting-cloud-intro/</guid>
+      <description>&lt;h1 id=&#34;雷电交易系统&#34;&gt;雷电交易系统&lt;/h1&gt;
+&lt;p&gt;雷电交易系统是我们的核心产品。&lt;/p&gt;
+&lt;p&gt;雷电交易系统经过三年时间的迭代开发，几十家线上交易所的实战检验和优化，无论是在安全，性能，用户体验，功能完善度方面，都是业内领先的交易系统。&lt;/p&gt;
+&lt;p&gt;雷电交易系统全部提供&lt;strong&gt;源代码&lt;/strong&gt;, 全部模块私有化部署，让您的交易所尽在您的掌控之下。雷电交易系统主要支持/包含以下子系统、模块：&lt;/p&gt;
+&lt;h2 id=&#34;现货交易币币交易&#34;&gt;现货交易、币币交易&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;高性能撮合引擎
+内存撮合强大，每个交易对5万+TPS&lt;/li&gt;
+&lt;li&gt;专业交易
+提供自完善的技术分析和划线工具支持策略委托和API下单、Websocket下单&lt;/li&gt;
+&lt;li&gt;配套功能
+配套财务系统、风控体系，支持所有主流币种及其代币，配套后台审核和运营CMS系统，快速稳定的系统部署和交付&lt;/li&gt;
+&lt;li&gt;多种交易模式
+支持法币、币币交易等多种交易形式，支持法币直接购买，且无最小限制&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>数字货币交易所</title>
       <link>https://lighting-cloud.com/post/exchange/</link>

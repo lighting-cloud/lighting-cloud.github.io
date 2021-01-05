@@ -1,32 +1,70 @@
-<search>
-    
-     <entry>
-        <title>合约交易系统开发</title>
-        <url>https://lighting-cloud.com/post/swap/</url>
-        <categories>
-          
-        </categories>
-        <tags>
-          
-        </tags>
-        <content type="html"> 合约交易系统 合约交易系统类似于传统金融的期货交易，但有很多不同。
-</content>
-    </entry>
-    
-     <entry>
-        <title>数字货币交易所</title>
-        <url>https://lighting-cloud.com/post/exchange/</url>
-        <categories>
-          <category>交易所</category>
-        </categories>
-        <tags>
-          <tag>交易所</tag>
-        </tags>
-        <content type="html"> 什么是数字货币交易所 自从bitcoin发布以来，人们对加密货币的兴趣与日俱增，终于成功的由一小群极客的玩物，逐渐成为炙手可热的投资品。
-优势 功能成熟、应用广泛的数字资产现货交易系统，强大的内存撮合引擎保证高并发量交易支持，包含完善的前后台系统，提供配套中心化钱包，系统安全稳定，可保障平台和用户双方的隐私安全、系统安全和资产安全。支持策略委托，支持国际化。 专业交易 提供自定义和第三方两种K线，技术分析和划线工具，支持策略委托，支持API下单
-配套功能 配套财务系统和风控体系，配套中心化钱包，支持所有主流数字资产，配套后台审核和运营CMS系统，国际化语言包，快速稳定的系统部署和交付 多端支持 支持PC端、手机端和APP，且均可通过Open API访问 安全验证 三重用户KYC认证，多种身份校验，机器防刷，权限隔离
-支付交易系统 数字资产和法定资产可以直接交易和支付的交易系统系统。提供包括专业K线、深度图、内存撮合系统、后台管理系统自动到账确认助手在内的整套交易系统，支持微信、支付宝和银行卡支付。仅为数字交易合法合规的国家和地区提供
-</content>
-    </entry>
-    
-</search>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lighting-cloud.com/categories/</loc>
+    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/post/</loc>
+    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/tags/</loc>
+    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/tags/%E4%BA%A4%E6%98%93%E6%89%80/</loc>
+    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/categories/%E4%BA%A4%E6%98%93%E6%89%80/</loc>
+    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/tags/%E4%BA%A4%E6%98%93%E6%89%80%E6%BA%90%E4%BB%A3%E7%A0%81/</loc>
+    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/tags/%E5%90%88%E7%BA%A6%E4%BA%A4%E6%98%93/</loc>
+    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/tags/%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93/</loc>
+    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/</loc>
+    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/post/lighting-cloud-intro/</loc>
+    <lastmod>2021-01-05T19:57:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/post/swap/</loc>
+    <lastmod>2020-11-18T17:59:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/post/exchange/</loc>
+    <lastmod>2020-11-18T09:56:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lighting-cloud.com/about/</loc>
+    <lastmod>2020-11-17T17:18:18+08:00</lastmod>
+  </url>
+  
+</urlset>
