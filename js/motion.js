@@ -276,7 +276,8 @@ $(document).ready(function () {
           integrator.next();
         };
 
-        $post.velocity('transition.slideDownIn', postMotionOptions);
+        // https://github.com/xtfly/hugo-theme-next/issues/15
+        // $post.velocity('transition.slideDownIn', postMotionOptions);
       }
     },
 

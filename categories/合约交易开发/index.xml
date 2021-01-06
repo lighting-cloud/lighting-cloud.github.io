@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>合约交易开发 on 雷电交易系统</title>
+    <link>/categories/%E5%90%88%E7%BA%A6%E4%BA%A4%E6%98%93%E5%BC%80%E5%8F%91/</link>
+    <description>Recent content in 合约交易开发 on 雷电交易系统</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2021 21:25:20 +0800</lastBuildDate><atom:link href="/categories/%E5%90%88%E7%BA%A6%E4%BA%A4%E6%98%93%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合约账户体系</title>
+      <link>/post/contract-account/</link>
+      <pubDate>Tue, 05 Jan 2021 21:25:20 +0800</pubDate>
+      
+      <guid>/post/contract-account/</guid>
+      <description>&lt;h1 id=&#34;什么是永续合约&#34;&gt;什么是永续合约&lt;/h1&gt;
+&lt;p&gt;永续合约是一种创新型金融衍生品，该合约与传统的期货合约相似，最大的区别在于：永续合约没有到期日或结算日，用户可以无限期持有仓位。&lt;/p&gt;
+&lt;p&gt;另外，永续合约引入了现货价格指数的概念，并通过相应机制，使永续合约的价格回归现货指数价格，因此与传统期货不同，永续合约的价格在绝大部分时间不会偏离现货价格太多。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

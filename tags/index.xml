@@ -6,11 +6,11 @@
     <description>Recent content in Tags on 雷电交易系统</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jan 2021 19:57:18 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 21:25:20 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>交易所</title>
       <link>/tags/%E4%BA%A4%E6%98%93%E6%89%80/</link>
-      <pubDate>Tue, 05 Jan 2021 19:57:18 +0800</pubDate>
+      <pubDate>Tue, 05 Jan 2021 21:25:20 +0800</pubDate>
       
       <guid>/tags/%E4%BA%A4%E6%98%93%E6%89%80/</guid>
       <description></description>
@@ -19,9 +19,27 @@
     <item>
       <title>交易所源代码</title>
       <link>/tags/%E4%BA%A4%E6%98%93%E6%89%80%E6%BA%90%E4%BB%A3%E7%A0%81/</link>
-      <pubDate>Tue, 05 Jan 2021 19:57:18 +0800</pubDate>
+      <pubDate>Tue, 05 Jan 2021 21:25:20 +0800</pubDate>
       
       <guid>/tags/%E4%BA%A4%E6%98%93%E6%89%80%E6%BA%90%E4%BB%A3%E7%A0%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>合约交易开发</title>
+      <link>/tags/%E5%90%88%E7%BA%A6%E4%BA%A4%E6%98%93%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Tue, 05 Jan 2021 21:25:20 +0800</pubDate>
+      
+      <guid>/tags/%E5%90%88%E7%BA%A6%E4%BA%A4%E6%98%93%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>永续合约</title>
+      <link>/tags/%E6%B0%B8%E7%BB%AD%E5%90%88%E7%BA%A6/</link>
+      <pubDate>Tue, 05 Jan 2021 21:25:20 +0800</pubDate>
+      
+      <guid>/tags/%E6%B0%B8%E7%BB%AD%E5%90%88%E7%BA%A6/</guid>
       <description></description>
     </item>
     
